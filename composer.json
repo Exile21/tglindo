@@ -1,0 +1,17 @@
+{
+    "name": "addinmalik/tglindo",
+    "description": "Package untuk membantu mengubah tanggal menjadi format indonesia",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Addinmalik\\Tglindo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Addin Malik"
+        }
+    ],
+    "require": {}
+}
